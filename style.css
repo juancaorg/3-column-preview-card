@@ -23,6 +23,15 @@
   --ff-headings: "Big Shoulders Display", cursive;
 }
 
+body {
+  min-height: 100vh;
+  background-color: var(--clr-very-light-gray);
+  color: var(--clr-transparent-white);
+  font-family: var(--ff-primary);
+  display: flex;
+  flex-direction: column;
+}
+
 .attribution {
   font-size: 0.75rem;
   margin-top: 1rem;
