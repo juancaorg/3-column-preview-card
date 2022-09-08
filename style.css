@@ -26,7 +26,6 @@
 body {
   min-height: 100vh;
   background-color: var(--clr-very-light-gray);
-  color: var(--clr-transparent-white);
   display: flex;
   flex-direction: column;
 }
@@ -55,6 +54,7 @@ section h1 {
 }
 
 section p {
+  color: var(--clr-transparent-white);
   font-family: var(--ff-primary);
   font-size: 0.8125rem;
   font-weight: 400;
