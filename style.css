@@ -32,11 +32,11 @@ body {
 
 .column-preview-card {
   max-width: 264px;
-  margin: auto;
+  margin: 1rem auto;
 }
 
 section {
-  padding: 26px 32px;
+  padding: 48px 32px;
 }
 
 section img {
