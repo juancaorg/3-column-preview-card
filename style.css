@@ -63,6 +63,16 @@ section p {
   text-align: start;
 }
 
+section button {
+  width: 65%;
+  background-color: var(--clr-very-light-gray);
+  border-radius: 1.25rem;
+  font-family: var(--ff-primary);
+  font-size: 0.8125rem;
+  font-weight: 400;
+  padding: 10px;
+}
+
 .sedans {
   background-color: var(--clr-bright-orange);
   border-radius: 0.5rem 0.5rem 0 0;
