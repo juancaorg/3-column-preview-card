@@ -48,7 +48,7 @@ section h1 {
   font-family: var(--ff-headings);
   font-size: 2rem;
   font-weight: 700;
-  margin-top: 1rem;
+  margin-top: 1.25rem;
   margin-bottom: 1.5rem;
   text-transform: uppercase;
 }
