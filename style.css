@@ -80,6 +80,10 @@ section button:hover {
   padding: calc(0.75rem - 2px);
 }
 
+section button:active {
+  transform: translateY(2px);
+}
+
 .sedans {
   background-color: var(--clr-bright-orange);
   border-radius: 0.5rem 0.5rem 0 0;
