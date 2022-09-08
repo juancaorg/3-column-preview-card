@@ -78,13 +78,25 @@ section button {
   border-radius: 0.5rem 0.5rem 0 0;
 }
 
+.sedans button {
+  color: var(--clr-bright-orange);
+}
+
 .suvs {
   background-color: var(--clr-dark-cyan);
+}
+
+.suvs button {
+  color: var(--clr-dark-cyan);
 }
 
 .luxury {
   background-color: var(--clr-very-dark-cyan);
   border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.luxury button {
+  color: var(--clr-very-dark-cyan);
 }
 
 .attribution {
