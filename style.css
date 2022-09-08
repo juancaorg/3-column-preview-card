@@ -70,7 +70,7 @@ section button {
   font-family: var(--ff-primary);
   font-size: 0.8125rem;
   font-weight: 400;
-  padding: 10px;
+  padding: 0.75rem;
 }
 
 .sedans {
