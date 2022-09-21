@@ -190,10 +190,11 @@ body {
   }
 
   .car-column button {
-    width: 75%;
-    border-radius: 2rem;
-    font-size: 1rem;
-    padding: 1rem;
+    width: 70%;
+    border-radius: 1.5625rem;
+    font-size: 0.9375rem;
+    line-height: 1.5625rem;
+    padding: 0.75rem;
   }
 
   .car-column button:hover {
@@ -201,8 +202,8 @@ body {
      * To make it look the same,
      * you have to substract the border width (2px)
      * from the button's padding.
-     * Therfore: calc(1rem - 2px).
+     * Therfore: calc(0.75rem - 2px).
     */
-    padding: calc(1rem - 2px);
+    padding: calc(0.75rem - 2px);
   }
 }
