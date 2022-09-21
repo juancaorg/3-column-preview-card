@@ -80,7 +80,8 @@ body {
   background-color: transparent;
   border: 2px solid var(--clr-very-light-gray);
   cursor: pointer;
-  /* To make it look the same,
+  /*
+   * To make it look the same,
    * you have to substract the border width (2px)
    * from the button's padding.
    * Therfore: calc(0.75rem - 2px).
@@ -196,6 +197,12 @@ body {
   }
 
   .car-column button:hover {
+    /*
+     * To make it look the same,
+     * you have to substract the border width (2px)
+     * from the button's padding.
+     * Therfore: calc(1rem - 2px).
+    */
     padding: calc(1rem - 2px);
   }
 }
