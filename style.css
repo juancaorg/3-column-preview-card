@@ -150,9 +150,9 @@ body {
 
 /* Desktop media query. */
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 960px) {
   .column-preview-card {
-    max-width: 1092px;
+    max-width: 921px;
     margin: auto;
     display: flex;
     flex-direction: row;
@@ -167,7 +167,8 @@ body {
   }
 
   .car-column {
-    padding: 3.375rem 4.375rem;
+    max-width: 307px;
+    padding: 3rem;
   }
 
   .car-column img {
