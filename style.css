@@ -183,9 +183,9 @@ body {
   }
 
   .car-column p {
-    font-size: 1rem;
-    line-height: 1.8;
-    margin-bottom: 6.5rem;
+    font-size: 0.9375rem;
+    line-height: 1.5625rem;
+    margin-bottom: 5.1875rem;
   }
 
   .car-column button {
