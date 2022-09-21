@@ -57,10 +57,10 @@ body {
 .car-column p {
   color: var(--clr-transparent-white);
   font-family: var(--ff-primary);
-  font-size: 0.8125rem;
   font-weight: 400;
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
+  font-size: 0.9375rem;
+  line-height: 1.5625rem;
+  margin-bottom: 1.5625rem;
   text-align: start;
 }
 
