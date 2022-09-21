@@ -67,11 +67,13 @@ body {
 .car-column button {
   width: 65%;
   background-color: var(--clr-very-light-gray);
-  border-radius: 1.25rem;
+  border-radius: 1.5625rem;
   font-family: var(--ff-primary);
-  font-size: 0.8125rem;
   font-weight: 400;
+  font-size: 0.9375rem;
+  line-height: 1.5625rem;
   padding: 0.75rem;
+  text-align: center;
 }
 
 .car-column button:hover {
